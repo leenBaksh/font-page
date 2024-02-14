@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "boxicons": "^2.1.4",
+    "font": "^0.0.4",
+    "icons": "^1.0.0",
+    "scrollreveal": "^4.0.9",
+    "transition": "^0.1.1"
+  }
+}
